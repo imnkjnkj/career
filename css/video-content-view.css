@@ -1,0 +1,16 @@
+.video {
+  width: 100%;
+  height: 675px;
+  margin-bottom: 20px;
+}
+.text {
+  padding-bottom: 70px;
+}
+.landing-wrap .landing-item {
+  margin-bottom: 45px;
+}
+@media screen and (max-width: 768px) {
+  .video {
+    height: 575px;
+  }
+}
